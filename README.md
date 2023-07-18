@@ -1,2 +1,2 @@
 # SudokuGame
-this is a sudoku game
+This is a Simple sudoku game.
